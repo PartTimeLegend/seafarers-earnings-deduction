@@ -1,4 +1,4 @@
-#Seafarers Earnings Deduction
+##Seafarers Earnings Deduction
 
 Loosely based on https://www.gov.uk/guidance/seafarers-earnings-deduction-tax-relief-if-you-work-on-a-ship
 
